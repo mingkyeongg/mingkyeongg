@@ -1,7 +1,17 @@
 ### Hi there 👋
 
-<a href="" target="_blank"><img src="<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>42</title><path d="M19.581 16.851H24v-4.439ZM24 3.574h-4.419v4.42l-4.419 4.418v4.44h4.419v-4.44L24 7.993Zm-4.419 0h-4.419v4.42zm-6.324 8.838H4.419l8.838-8.838H8.838L0 12.412v3.595h8.838v4.419h4.419z"/></svg>"/></a>
+<img src="https://img.shields.io/badge/42Seoul-000000?style=flat-square&logo=42&logoColor=white"/></a> <a href="https://velog.io/@ming0820/posts" target="_blank"><img src="https://img.shields.io/badge/minkylog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> <a href="matilto:mingkk970820@gmail.com" target="_blank"><img src="https://img.shields.io/badge/mingkk970820@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
+## ⭐️ Skills
+### Platform & Languages
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a> 
+### Tools
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
+
+
+[![https://solved.ac/profile/ming0820](http://mazassumnida.wtf/api/v2/generate_badge?boj=ming0820)](https://solved.ac/{handle})
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingkyeongg&show_icons=true&theme=radical)
 <!--
 **mingkyeongg/mingkyeongg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
