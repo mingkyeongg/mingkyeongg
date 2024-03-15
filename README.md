@@ -11,7 +11,7 @@
 
 [![https://solved.ac/profile/ming0820](http://mazassumnida.wtf/api/v2/generate_badge?boj=ming0820)](https://solved.ac/{handle})
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mingkyeongg&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mingkyeongg)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mingkyeongg/mingkyeongg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
