@@ -1,6 +1,6 @@
 <div align=center>
 
-  ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=Minkyeong's%20Github&fontSize=70)
+  ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=100&section=header&text=Minkyeong's%20Github&fontSize=50)
 
   
   <img src="https://img.shields.io/badge/42Seoul-000000?style=for-the-badge&logo=42&logoColor=white"/></a> <a href="https://minkylee.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a> <a href="matilto:mingkk970820@gmail.com" target="_blank"><img src="https://img.shields.io/badge/mingkk970820@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
